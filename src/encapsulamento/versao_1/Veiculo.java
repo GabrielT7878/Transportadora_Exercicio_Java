@@ -1,4 +1,4 @@
-package Encapsulamento.Versao_1;
+package encapsulamento.versao_1;
 
 public class Veiculo {
     public double carga = 0;
