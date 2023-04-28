@@ -17,7 +17,7 @@ public class Veiculo {
     }
 
     public boolean adicionarCaixa(double peso){
-        if(carga + peso <= 10000) {
+        if(carga + peso <= 10_000) {
             carga += peso;
             return true;
         }
